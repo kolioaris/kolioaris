@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Pixello (Social Media App)
-- 🌱 I’m currently learning React
-- 📫 How to reach me: kolioarisyt on Discord
+- 🔭 I’m currently working on random things
+- 🌱 I’m currently learning nothing
+- 📫 How to reach me: make a new issue
 - ⚡ Fun fact: I like coding
