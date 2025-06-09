@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[guns.lol/kolioaris](https://guns.lol/kolioaris)
+[kolioaris.xyz](https://kolioaris.xyz)
