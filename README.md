@@ -15,9 +15,6 @@ I really like coding and building tools that help other people.
 ### 🌐 Browser
 <!DOCTYPE HTML>
 <html>
-  <head>
-    
-  </head>
   <body>
     <p>
       <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/><br/>
@@ -30,9 +27,36 @@ I really like coding and building tools that help other people.
   </body>
 </html>
 
-<br/>
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+### 🎮 Gaming
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <p>
+      <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/><br/>
+      <ul>
+        <li>Has the biggest game library</li>
+        <li>Has good discounts</li>
+        <li>THE BEST SUPPORT TEAM</li>
+      </ul>
+    </p>
+  </body>
+</html>
+
+
+### ☁️ Hosting
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <p>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/><br/>
+      <ul>
+        <li>Free</li>
+        <li>Good Performance</li>
+        <li>I host all my websites there</li>
+      </ul>
+    </p>
+  </body>
+</html>
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
