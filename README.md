@@ -13,8 +13,22 @@ I really like coding and building tools that help other people.
 
 ## ⚙️ Software I use
 ### 🌐 Browser
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-- I've tried a lot of browsers like Arc, Chrome, Edge, but I think Firefox is the best for performance and for privacy.
+<!DOCTYPE HTML>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/><br/>
+      <ul>
+        <li>I've tried a lot of browsers like Arc, Chrome, Edge, but I think Firefox is the best</li>
+        <li>Has good performance</li>
+        <li><del>Privacy</del> <sup>Not anymore!</sup></li>
+      </ul>
+    </p>
+  </body>
+</html>
 
 <br/>
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
