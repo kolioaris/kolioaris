@@ -11,37 +11,40 @@ I really like coding and building tools that help other people.
 
 <br/>
 
+## 📊 Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolioaris&hide=prs&show=prs_merged&show_icons=true&theme=dark&icon_color=bdbdbd) <br />
+![Trophies](https://github-profile-trophy.vercel.app/?username=kolioaris&row=2&column=3&theme=onestar)
 ## ⚙️ Software I use
+
+<details>
+<summary>Table of Contents <i>- Click to expand</i></summary>
+  
+[🌐 Browser](#-browser)
+
+[☁️ Hosting](#%EF%B8%8F-hosting)
+
+[💻 IDEs/Editors]()
+
+[🎛️ Operating System]()
+
+[🔍 Search Engine]()
+
+[🕓 Version Control]()
+
+[🎶 Music]()
+
+</details>
+
 ### 🌐 Browser
 <!DOCTYPE HTML>
 <html>
   <body>
     <p>
       <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/><br/>
-      <ul>
-        <li>I've tried a lot of browsers like Arc, Chrome, Edge, but I think Firefox is the best</li>
-        <li>Has good performance</li>
-        <li><del>Privacy</del> <sup>Not anymore!</sup></li>
-      </ul>
     </p>
+    <hr/>
   </body>
 </html>
-
-### 🎮 Gaming
-<!DOCTYPE HTML>
-<html>
-  <body>
-    <p>
-      <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/><br/>
-      <ul>
-        <li>Has the biggest game library</li>
-        <li>Has good discounts</li>
-        <li>THE BEST SUPPORT TEAM</li>
-      </ul>
-    </p>
-  </body>
-</html>
-
 
 ### ☁️ Hosting
 <!DOCTYPE HTML>
@@ -49,31 +52,67 @@ I really like coding and building tools that help other people.
   <body>
     <p>
       <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/><br/>
-      <ul>
-        <li>Free</li>
-        <li>Good Performance</li>
-        <li>I host all my websites there</li>
-      </ul>
+    </p>
+    <hr/>
+  </body>
+</html>
+
+### 💻 IDEs/Editors
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <p>
+      <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"/><br/>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br/>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/><br/>
+    </p>
+    <hr/>
+  </body>
+</html>
+
+### 🎛️ Operating System
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <p>
+      <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
+    </p>
+    <hr/>
+  </body>
+</html>
+
+### 🔍 Search Engine
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <p>
+      <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br/>
+    </p>
+    <hr/>
+  </body>
+</html>
+
+### 🕓 Version Control
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <p>
+      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><br/>
+    </p>
+    <hr/>
+  </body>
+</html>
+
+### 🎶 Music
+<!DOCTYPE HTML>
+<html>
+  <body>
+    <p>
+      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/><br/>
     </p>
   </body>
 </html>
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-- Search Engine
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolioaris&hide=prs&show=prs_merged&show_icons=true&theme=dark&icon_color=bdbdbd)
-
-<br/>
