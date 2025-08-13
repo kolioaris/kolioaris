@@ -1,3 +1,1 @@
-### Hi there 👋
-
-[kolioaris.xyz](https://kolioaris.xyz)
+# :wave:Hi! I am kolioaris
