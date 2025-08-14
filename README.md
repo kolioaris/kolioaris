@@ -23,15 +23,15 @@ I really like coding and building tools that help other people.
 
 [☁️ Hosting](#%EF%B8%8F-hosting)
 
-[💻 IDEs/Editors]()
+[💻 IDEs/Editors](#-ideseditors)
 
-[🎛️ Operating System]()
+[🎛️ Operating System](#%EF%B8%8F-operating-system)
 
-[🔍 Search Engine]()
+[🔍 Search Engine](#-search-engine)
 
-[🕓 Version Control]()
+[🕓 Version Control](#-version-control)
 
-[🎶 Music]()
+[🎶 Music](#-music)
 
 </details>
 
