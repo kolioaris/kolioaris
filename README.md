@@ -9,16 +9,14 @@ I really like coding and building tools that help other people.
   </a>
 </p>
 
-<br/>
-
 ## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolioaris&hide=prs&show=prs_merged&show_icons=true&theme=dark&icon_color=bdbdbd) <br />
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kolioaris&row=2&column=3&theme=onestar)
+
 ## ⚙️ Software I use
 
 <details>
 <summary>Table of Contents <i>- Click to expand</i></summary>
-  
 <br/>
   
 [🌐 Browser](#-browser)
@@ -41,9 +39,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <p>
-      <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/><br/>
-    </p>
+      <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
     <hr/>
   </body>
 </html>
@@ -52,9 +48,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <p>
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/><br/>
-    </p>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
     <hr/>
   </body>
 </html>
@@ -63,15 +57,9 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <p>
       <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"/><br/>
-    </p>
-    <p>
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br/>
-    </p>
-    <p>
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/><br/>
-    </p>
+      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <hr/>
   </body>
 </html>
@@ -80,9 +68,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <p>
-      <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
-    </p>
+    <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <hr/>
   </body>
 </html>
@@ -91,9 +77,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <p>
-      <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/><br/>
-    </p>
+    <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
     <hr/>
   </body>
 </html>
@@ -102,9 +86,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <p>
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/><br/>
-    </p>
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
     <hr/>
   </body>
 </html>
@@ -113,8 +95,6 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <p>
-      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/><br/>
-    </p>
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
   </body>
 </html>
