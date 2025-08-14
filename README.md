@@ -19,6 +19,8 @@ I really like coding and building tools that help other people.
 <details>
 <summary>Table of Contents <i>- Click to expand</i></summary>
   
+<br/>
+  
 [🌐 Browser](#-browser)
 
 [☁️ Hosting](#%EF%B8%8F-hosting)
