@@ -1,17 +1,16 @@
 # :wave:Hi! I am kolioaris
 I really like coding and building tools that help other people.
-<p align="left">
-  <a href="https://github.com/kolioaris?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kolioaris?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/kolioaris?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kolioaris?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</p>
+<div align="center">
+  <a href="https://github.com/kolioaris?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kolioaris?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/kolioaris?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kolioaris?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</div>
 
 ## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kolioaris&hide=prs&show=prs_merged&show_icons=true&theme=dark&icon_color=bdbdbd) <br />
-![Trophies](https://github-profile-trophy.vercel.app/?username=kolioaris&row=2&column=3&theme=onestar)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kolioaris&hide=prs&show=prs_merged&show_icons=true&theme=dark&icon_color=bdbdbd"></img>
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=kolioaris&margin-w=10&margin-h=10&no-bg=true"></img>
+</div>
 
 ## ⚙️ Software I use
 
