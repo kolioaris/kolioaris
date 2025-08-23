@@ -38,7 +38,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-      <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+    <a href="https://www.firefox.com/"><img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/></a>
     <hr/>
   </body>
 </html>
@@ -47,7 +47,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <a href="https://vercel.com/"><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     <hr/>
   </body>
 </html>
@@ -56,9 +56,8 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-      <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+      <a href="https://github.com/notepad-plus-plus/notepad-plus-plus"><img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black"/></a><br/>
+      <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
     <hr/>
   </body>
 </html>
@@ -67,7 +66,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <a href="https://www.microsoft.com/software-download/windows10ISO"><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
     <hr/>
   </body>
 </html>
@@ -76,7 +75,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+    <a href="https://google.com"><img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
     <hr/>
   </body>
 </html>
@@ -85,7 +84,7 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="https://github.com"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
     <hr/>
   </body>
 </html>
@@ -94,6 +93,6 @@ I really like coding and building tools that help other people.
 <!DOCTYPE HTML>
 <html>
   <body>
-    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <a href="https://spotify.com"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
   </body>
 </html>
