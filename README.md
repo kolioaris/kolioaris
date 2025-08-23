@@ -14,26 +14,6 @@ I really like coding and building tools that help other people.
 
 ## ⚙️ Software I use
 
-<details>
-<summary>Table of Contents <i>- Click to expand</i></summary>
-<br/>
-  
-[🌐 Browser](#-browser)
-
-[☁️ Hosting](#%EF%B8%8F-hosting)
-
-[💻 IDEs/Editors](#-ideseditors)
-
-[🎛️ Operating System](#%EF%B8%8F-operating-system)
-
-[🔍 Search Engine](#-search-engine)
-
-[🕓 Version Control](#-version-control)
-
-[🎶 Music](#-music)
-
-</details>
-
 ### 🌐 Browser
 <!DOCTYPE HTML>
 <html>
