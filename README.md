@@ -1,4 +1,4 @@
-# :wave:Hi! I am kolioaris
+# :wave: Hi! I am kolioaris
 I really like coding and building tools that help other people.
 <div align="center">
   <a href="https://github.com/kolioaris?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kolioaris?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -9,7 +9,7 @@ I really like coding and building tools that help other people.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kolioaris&hide=prs&show=prs_merged&show_icons=true&theme=dark&icon_color=bdbdbd"></img>
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=kolioaris&margin-w=10&margin-h=10&no-bg=true&row=2&column=4"></img>
+  <img src="https://trophygh.kolioaris.xyz/?username=kolioaris&margin-w=10&margin-h=10&no-bg=true&row=2&column=4"></img>
 </div>
 
 ## ⚙️ Software I use
