@@ -10,6 +10,7 @@ I really like coding and building tools that help other people.
   <img src="https://github-readme-stats.vercel.app/api?username=kolioaris&hide=prs&show=prs_merged&show_icons=true&theme=dark&icon_color=bdbdbd"></img>
   <br />
   <img src="https://trophygh.kolioaris.xyz/?username=kolioaris&margin-w=10&margin-h=10&no-bg=true&row=2&column=4"></img>
+  <br />
   <img src="https://skillicons.dev/icons?i=cloudflare,discord,github,git,instagram,mint,powershell,python,vscode"></img>
 </div>
 
