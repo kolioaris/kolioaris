@@ -19,7 +19,7 @@
   <br />
   <img src="https://trophygh.kolioaris.xyz/?username=kolioaris&margin-w=10&margin-h=10&no-bg=true&row=2&column=4"/>
   <br />
-  <img src="https://skillicons.dev/icons?i=cloudflare,discord,github,git,instagram,mint,powershell,python,vscode"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,discord,github,git,instagram,powershell,python,vscode,windows"/>
 </div>
 
 <div align="center">
