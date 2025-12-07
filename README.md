@@ -18,7 +18,7 @@
   <img src="https://trophygh.kolioaris.xyz/?username=kolioaris&margin-w=10&margin-h=10&no-bg=true&row=2&column=4"/>
   <br />
   <br />
-  <img src="https://skillicons.dev/icons?i=cloudflare,discord,github,git,instagram,powershell,python,vscode,windows"/>
+  <img src="https://skillicons.dev/icons?i=cloudflare,discord,github,git,python,windows"/>
 </div>
 
 <div align="center">
@@ -54,25 +54,9 @@
 </div>
 
 <div align="center">
-  <h3>🎛️ Operating System</h3>
-  <a href="https://www.microsoft.com/software-download/windows10ISO">
-    <img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  </a>
-  <hr/>
-</div>
-
-<div align="center">
   <h3>🔍 Search Engine</h3>
   <a href="https://google.com">
     <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  </a>
-  <hr/>
-</div>
-
-<div align="center">
-  <h3>🕓 Version Control</h3>
-  <a href="https://github.com">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <hr/>
 </div>
